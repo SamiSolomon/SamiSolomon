@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I am a **passionate Full-Stack Developer** with extensive expertise in building scalable, efficient, and innovative solutions. From crafting intuitive front-end interfaces to designing robust back-end systems, I thrive in creating seamless digital experiences.
 
-![Header Image](https://via.placeholder.com/1200x300.png?text=Your+GitHub+Banner) <!-- Replace with your custom banner -->
+![Your Animated Banner](https://github.com/yourusername/yourrepositoryname/blob/main/banner.gif)
 
 ---
 
