@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **SamiSolomon/SamiSolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Samuel!
 
 Welcome to my GitHub profile! I am a **passionate Full-Stack Developer** with extensive expertise in building scalable, efficient, and innovative solutions. From crafting intuitive front-end interfaces to designing robust back-end systems, I thrive in creating seamless digital experiences.
 
