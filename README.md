@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Aws**
 
-- 💬 Ask me about **react ,Vue, Nuxt js and Django**
+- 💬 Ask me about **react ,Next, NestJs and Django**
 
 - 📫 How to reach me **samuelsolomon452@gmail.com**
 
